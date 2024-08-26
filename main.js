@@ -1,4 +1,4 @@
-// Problem -
+// Problem Statement -
 // Given two strings,
 // Write a method to decide if one is a permutation of the other.
 
